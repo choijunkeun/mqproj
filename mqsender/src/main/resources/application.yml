@@ -1,0 +1,16 @@
+server:
+  port: 8090
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: jkchoi
+    password: 2917
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/jkshop?serverTimezone=Asia/Seoul
+#    username: root
+#    password: 68121259
+
+

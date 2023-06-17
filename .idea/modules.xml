@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mqproj.iml" filepath="$PROJECT_DIR$/mqproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mqreceiver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mqreceiver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mqsender.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mqsender.main.iml" />
+    </modules>
+  </component>
+</project>
